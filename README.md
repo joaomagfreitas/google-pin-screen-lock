@@ -13,3 +13,5 @@ Google's pin screen lock implemented using different frameworks. Feel free to re
 ## Comparison
 
 Google's:
+
+[pin-screen-lock.webm](https://github.com/user-attachments/assets/5546ec9a-2ff7-4cd0-8385-b6b3f7c3127f)
